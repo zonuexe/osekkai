@@ -35,7 +35,7 @@
   "homepage": "https://github.com/hakatashi/osekkai#readme",
   "devDependencies": {
     "coffee-coverage": "^2.0.0",
-    "coffee-script": "^1.10.0",
+    "coffee-script": "^1.12.8",
     "coffeelint": "^1.15.7",
     "coveralls": "^2.11.12",
     "es5-shim": "^4.5.9",
